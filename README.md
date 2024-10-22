@@ -1,4 +1,5 @@
 Extrator de Holerites
+
 Este repositório contém um script Python avançado que processa e extrai dados de folhas de pagamento em formato PDF (clicavel), utilizando a biblioteca pdfplumber. O script é especializado em lidar com folhas de pagamento de funcionários aposentados, e extrai informações importantes, como nome, categoria, total de vencimentos, e valores correspondentes a itens de interesse baseados em códigos específicos. Os resultados são calculados e acumulados por período, permitindo uma análise detalhada dos dados.
 
 Funcionalidades:
@@ -28,7 +29,8 @@ pandas
 
 #COMO USAR#
 Clone este repositório para sua máquina local:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+"git clone https://github.com/paulo-moretti/Combinador-de-Holerites-Automacao-de-PDFs.git"
+
 Acesse o diretório do projeto:
 cd seu-repositorio
 Certifique-se de que as dependências estão instaladas conforme mostrado na seção de "Dependências".
