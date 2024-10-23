@@ -19,6 +19,7 @@ Para rodar o projeto, você precisará instalar as seguintes dependências:
 - tkinter (geralmente já vem com a instalação do Python)
 - pdf2image
 - fitz (PyMuPDF)
+  
 Você pode instalar as dependências necessárias usando o "pip":
 - pip install pdfplumber pytesseract pdf2image pymupdf
 
@@ -29,8 +30,10 @@ Você pode instalar as dependências necessárias usando o "pip":
 ## Instalação
 
 Clone este repositório para o seu ambiente local:
+
 - git clone https://github.com/paulo-moretti/Combinador-de-Holerites-Automacao-de-PDFs.git
 - cd Combinador-de-Holerites-Automacao-de-PDFs
+  
 Instale as dependências do projeto:
 - pip install -r requirements.txt
 
